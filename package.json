@@ -1,0 +1,36 @@
+{
+  "name": "restful-api-nodejs-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moussa-Kalam/restful-api-nodejs-express.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "express"
+  ],
+  "author": "Moussa Kalam AMZAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moussa-Kalam/restful-api-nodejs-express/issues"
+  },
+  "homepage": "https://github.com/Moussa-Kalam/restful-api-nodejs-express#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2",
+    "nodemon": "^2.0.21"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.3",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
